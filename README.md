@@ -1,8 +1,8 @@
 ### Hi there! I am Pedro Concon
 
 - 🔭 I’m currently working on full-stack
-- 🌱 I’m currently improving my knowleadge about React and Java
-
+- 🌱 I’m currently improving my knowleadge about Java and React
+  
 <div align="center">
   <a href="https://github.com/pedroconcon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroconcon&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
