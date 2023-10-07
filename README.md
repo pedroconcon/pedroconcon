@@ -1,7 +1,5 @@
 ### Hi there! I am Pedro Concon
 
-- 🔭 I’m currently working on full-stack
-- 🌱 I’m currently improving my knowleadge about Java and React
   
 <div align="center">
   <a href="https://github.com/pedroconcon">
